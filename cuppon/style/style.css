@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+h5 {color:#212529; font-weight: 300;
+    ;}
+.card-text {color:#707070;
+font-weight:300;}
+
+.text-disa  {color:rgba(255, 255, 255, 0.234);}
+
+footer p {color:#707070;font-weight: 300;}
+
+.navbar-brand img {width: 80px;}
+
+footer img {width: 80px;}

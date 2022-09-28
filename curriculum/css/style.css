@@ -1,0 +1,35 @@
+
+    h1 {text-align:center;color:#034906}
+    body{margin: auto;font-family: 'Overpass', sans-serif;
+font-family: 'Signika', sans-serif;box-sizing: border-box;}
+    h2 {color:#2277cc;}
+
+    h3{color:#a88da4}
+    .imag {
+        margin:40px auto;
+        text-align: center;
+    }
+    .imag img{width: 220px;border-radius: 200px;}
+main{margin:auto;
+width:850px;
+}
+
+    .menu a{    color: white;
+    text-decoration: none;
+  margin:auto 10px
+}
+
+.menu>a:hover{
+    background-color: rgb(42, 46, 69):
+
+}
+    .menu{color:white;background-color: rgb(15, 20, 43); width: 100%;padding:10px ;}
+
+    footer{
+      color: white;
+      background-color: #efc6e9;
+      padding:20px;
+      text-align: center;
+      margin: 20px 0 0 0 ;
+      
+    }
