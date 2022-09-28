@@ -1,0 +1,97 @@
+body {
+  font-family: "Raleway", sans-serif;
+  width: 1280px;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  color: #ffff;
+  background: #000;
+}
+
+h1 {
+  font-weight: 400 !important;
+  text-align: center;
+  margin: 7px auto;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+p {
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.iguana_one img {
+  width: 100%;
+}
+
+.description {
+  width: 1280px;
+  
+
+}
+
+.text {
+  width: 1rem;
+  padding: 100px 600px 60px 130px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.text p {
+  text-align: justify;
+  width: 475px;
+}
+
+.picture_one {
+  width: 1rem;
+  display: inline-block;
+  margin-top: 60px;
+}
+
+.picture_one img {
+  width: 399px;
+}
+
+/* Seccion características */
+.caracteristicas {
+    text-align: center;
+    background-color: #1E1A13;
+    padding: 20px 10px 40px 10px;
+    font-size: 25px;;
+}
+
+.caracteristicas h2 {font-weight: 400;font-size: 40px;}
+
+.caracteristicas i {font-size: 3em;display: block;font-weight: 300;}
+.mano,.ojo,.color{
+    display: inline-block;
+    width: 25%;
+    font-size: 25px;
+}
+
+
+.tresfotos {
+  padding: 75px 30px;
+  text-align: center;
+
+}
+
+.fotitos{
+  display: inline-block;
+  width: 25%;
+  padding:1%;
+}
+
+.fotitos img {width: 100%;
+  width: 306px;
+height: 200px;
+vertical-align: middle;}
+footer{padding: 10px;
+  vertical-align: middle;
+text-align: center;background-color:#1E1A13;}
+
+footer p {
+font-size: 20px;
+
+}
